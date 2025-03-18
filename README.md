@@ -113,4 +113,4 @@ This project is **open-source** and available under the **MIT License**.
 
 ---
 
-This README now includes the **automatic saving feature**! 🚀🔥 Let me know if you need more updates. 😃
+This README now includes the **automatic saving feature**! 🚀
